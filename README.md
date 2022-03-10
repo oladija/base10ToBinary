@@ -1,4 +1,4 @@
-# personalCprojects
+# base10 To Binary
 
 This code will convert numbers in Decimal to Binary.
 
